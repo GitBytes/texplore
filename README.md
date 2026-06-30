@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 ## TExplore
 
 TExplore is an interactive tool for rapid and reproducible identification of informative trends over time in unstructured text datasets. The tool summarizes the prominence over time of text elements (e.g., words, ngrams, keyword phrases) in datasets or inputs across groups — such as predictive model output categories (e.g., predictions, confidence bin labels etc.), or other categorical annotations in a dataset (e.g., topics, locations etc.). Using TExplore, users can probe the different axes of interest over time to see how behavioral patterns persist or differ across different combinations quickly and easily. 
